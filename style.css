@@ -7,7 +7,16 @@ h1{
 }
 
 a{
-    background-color: rgb(255, 234, 0);
+    background-color: rgb(255, 234, 0); 
     text-decoration: none;
     color:black;
+}
+
+.link{
+    padding: 40px;
+    margin: 10px;
+}
+
+div{
+   background-color: rgb(255,234,0); 
 }
