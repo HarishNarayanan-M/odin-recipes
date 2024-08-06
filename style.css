@@ -8,8 +8,7 @@ h1{
     font-size: 40px;
 }
 
-a{
-   
+a{ 
     text-decoration: none;
     color:black;
     font-size: 25px;
@@ -21,4 +20,7 @@ a{
     padding: 40px;
     margin: 10px;
     border-radius: 55px;
+    list-style: none;
 }
+
+
