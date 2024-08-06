@@ -3,6 +3,7 @@ body{
 }
 
 h1{
+    text-align: center;
     color: white;
 }
 
@@ -13,6 +14,7 @@ a{
 }
 
 .link{
+    text-align: center;
     padding: 40px;
     margin: 10px;
 }
