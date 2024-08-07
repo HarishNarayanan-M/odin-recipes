@@ -21,7 +21,6 @@ div{
     padding: 40px 250px 40px 250px;
     margin: 10px 60px 10px 10px;
     border-radius: 25px;
-    display: inline-block;
 }
 
 li{
@@ -30,12 +29,19 @@ li{
 
 .item1{
     padding: 40px 250px 40px 250px;
+    display: inline-block;
+    overflow: hidden;
 }
 
 .item2{
     padding: 40px 262px 40px 262px;
+    display: inline-block;
+    overflow: hidden;
 }
 
 .item3{
     padding: 42px 251px 42px 251px;
+    display: inline-block;
+    overflow: hidden;
 }
+
