@@ -18,9 +18,10 @@ a{
 div{
     background-color: rgb(255,234,0); 
     text-align: center;
-    padding: 40px;
-    margin: 10px;
+    padding: 40px 250px 40px 250px;
+    margin: 10px 40px 10px 10px;
     border-radius: 25px;
+    display: inline-block;
 }
 
 li{
