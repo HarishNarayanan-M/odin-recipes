@@ -50,4 +50,14 @@ li{
     transition-duration: 0.35s;
 }
 
+.item2:hover{
+    padding: 40px 292px 40px 292px;
+    transition-duration: 0.35s;
+}
+
+.item3:hover{
+    padding: 42px 281px 42px 281px;
+    transition-duration: 0.35s;
+}
+
 
