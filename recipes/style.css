@@ -5,3 +5,11 @@ body{
 h1,h2{
     color: white;
 }
+
+p{
+    color:rgb(255,234,0);
+}
+
+li{
+    color: rgb(255,234,0);
+}
