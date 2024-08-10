@@ -17,3 +17,11 @@ li{
 h1{
     text-align: center;
 }
+
+ul{
+    color: white;
+}
+
+li::marker{
+    color: white;
+}
