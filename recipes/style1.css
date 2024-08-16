@@ -21,6 +21,7 @@ img{
     width: 900px;
     margin: auto;
     color: white;
+    margin-bottom: -220px;
 }
 
 .list1{
@@ -31,6 +32,7 @@ img{
 }
  .list2{
     margin-top: 40px;
+
  }
 
  .steps{
@@ -45,3 +47,6 @@ img{
     width:350px;
     margin-left: 450px;
  }
+
+ 
+ 
