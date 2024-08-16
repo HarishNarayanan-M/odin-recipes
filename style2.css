@@ -4,6 +4,7 @@
     margin:40px auto;
     padding: 20px 10px ;
     text-align: center;
+    
 }
 
 li{
@@ -25,4 +26,8 @@ a{
 }
 h1{
     font-size: 35px;
+}
+ 
+.item1:hover,.item2:hover,.item3:hover{
+    margin:10px 30px 10px -10px;
 }
