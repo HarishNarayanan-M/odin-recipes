@@ -2,7 +2,7 @@
     background-color: #e4ebf4;
     width: 800px;
     margin:40px auto;
-    padding: 20px 10px;
+    padding: 20px 10px ;
     text-align: center;
 }
 
@@ -12,4 +12,10 @@ li{
 
 a{
     text-decoration: none;
+}
+
+.item1,.item2,.item3{
+    background-color: #fc374e;
+    color: white;
+    margin-right: 40px;
 }
