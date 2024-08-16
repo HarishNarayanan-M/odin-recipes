@@ -27,3 +27,9 @@ img{
  .list2{
     margin-top: 40px;
  }
+
+ .steps{
+    margin-top: -200px;
+    width: 900px;
+    margin: -200px auto;
+ }
