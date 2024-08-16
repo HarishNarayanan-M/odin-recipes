@@ -5,3 +5,8 @@ img{
 .list{
     margin-top: 300px;
 }
+
+.container1{
+    width: 900px;
+    margin: auto;
+}
