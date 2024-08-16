@@ -18,5 +18,8 @@ img{
 
 .list1{
     float: left;
-   
+    margin-right: 80px;
 }
+ .list2{
+    margin-top: 40px;
+ }
