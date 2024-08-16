@@ -1,63 +1,33 @@
-body{
-    background-color: #1C2429;
+.container{
+    background-color: #e4ebf4;
+    width: 800px;
+    margin:40px auto;
+    padding: 20px 10px ;
     text-align: center;
-}
-
-h1{
-    text-align: center;
-    color: white;
-    font-size: 40px;
-}
-
-a{ 
-    text-decoration: none;
-    color:black;
-    font-size: 25px;
-}
-
-div{
-    background-color: rgb(255,234,0); 
-    text-align: center;
-    padding: 40px 250px 40px 250px;
-    margin: 10px 60px 10px 10px;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 li{
     list-style: none;
 }
 
-.item1{
-    padding: 40px 250px 40px 250px;
-    display: inline-block;
-    overflow: hidden;
+a{
+    text-decoration: none;
+    font-size: 22px;
 }
 
-.item2{
-    padding: 40px 262px 40px 262px;
-    display: inline-block;
-    overflow: hidden;
+.item1,.item2,.item3{
+    background-color: #fc374e;
+    color: white;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    padding: 40px;
+    border-radius: 25px;
 }
-
-.item3{
-    padding: 42px 251px 42px 251px;
-    display: inline-block;
-    overflow: hidden;
+h1{
+    font-size: 35px;
 }
-
-.item1:hover{
-    padding: 40px 280px 40px 280px;
-    transition-duration: 0.35s;
+ 
+.item1:hover,.item2:hover,.item3:hover{
+    margin:10px 30px 10px -10px;
 }
-
-.item2:hover{
-    padding: 40px 292px 40px 292px;
-    transition-duration: 0.35s;
-}
-
-.item3:hover{
-    padding: 42px 281px 42px 281px;
-    transition-duration: 0.35s;
-}
-
-
