@@ -1,8 +1,9 @@
 .container{
     background-color: #e4ebf4;
     width: 800px;
-    margin: 40px auto;
+    margin:40px auto;
     padding: 20px 10px;
+    text-align: center;
 }
 
 li{
