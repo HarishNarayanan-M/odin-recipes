@@ -86,3 +86,7 @@ img{
 ol li{
     margin-bottom: 15px;
 }
+
+.list1 li:hover,.list2 li:hover{
+    background-color: #625a67;
+}
