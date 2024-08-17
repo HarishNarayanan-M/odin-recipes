@@ -47,6 +47,10 @@ img{
     margin-left: 450px;
  }
 
+ ul{
+    list-style:none;
+ }
+
 .list1 li{
     background-color: #fc374e;
     margin-bottom: 10px;
