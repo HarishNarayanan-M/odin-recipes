@@ -16,3 +16,83 @@ img{
     width:900px;
     margin: 300px auto;
 }
+
+.container1{
+    width: 900px;
+    margin: auto;
+    color: white;
+    margin-bottom: -220px;
+}
+
+.list1{
+    float: left;
+    margin-right: 80px;
+
+}
+ .list2{
+    margin-top: 36px;
+
+ }
+
+ .steps{
+    margin-top: -200px;
+    width: 900px;
+    margin: -200px auto;
+ }
+
+ .para{
+    background-color: #fc374e;
+    padding: 68px 40px;
+    width:350px;
+    margin-left: 450px;
+ }
+
+ ul{
+    list-style:none;
+ }
+
+.list1 li{
+    background-color: #fc374e;
+    margin-bottom: 10px;
+    padding: 15px 110px;
+    margin-left: -35px;
+    text-align: center;
+    border-radius: 16px;
+    color: white;
+}
+
+.list2 li{
+    background-color: #fc374e;
+    margin-left: 400px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;   
+    text-align: center;
+    padding-right: 100px;
+    border-radius: 16px;
+    color: white;
+}
+ 
+.steps{
+    background-color: #fc374e;
+    color: white;
+    margin-bottom: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
+
+ol li{
+    margin-bottom: 15px;
+}
+
+.list1 li:hover,.list2 li:hover{
+    background-color: #625a67;
+    transition-duration: 0.35s;
+}
+
+.steps h2,.list h2{
+    text-align: center;
+}
+
