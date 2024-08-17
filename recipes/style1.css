@@ -89,4 +89,5 @@ ol li{
 
 .list1 li:hover,.list2 li:hover{
     background-color: #625a67;
+    transition-duration: 0.35s;
 }
