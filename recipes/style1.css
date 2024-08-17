@@ -76,5 +76,8 @@ img{
  
 .steps{
     background-color: #fc374e;
+    color: white;
     margin-bottom: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
