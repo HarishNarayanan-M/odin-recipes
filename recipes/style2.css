@@ -10,3 +10,9 @@ img{
     float: left;
     margin-right: 100px;
 }
+
+.list{
+    margin-top: 300px;
+    width:900px;
+    margin: 300px auto;
+}
