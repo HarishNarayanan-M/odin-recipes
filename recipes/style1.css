@@ -57,6 +57,8 @@ img{
     padding: 15px 110px;
     margin-left: -35px;
     text-align: center;
+    border-radius: 16px;
+    color: white;
 }
 
 .list2 li{
@@ -68,5 +70,7 @@ img{
     padding-bottom: 15px;   
     text-align: center;
     padding-right: 100px;
+    border-radius: 16px;
+    color: white;
 }
  
